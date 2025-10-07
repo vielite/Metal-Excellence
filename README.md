@@ -27,11 +27,10 @@
 ## Overview
 
 **Metal Excellence** is a paradigm shift from traditional security audit competitions.  
-It focuses on building a *competitive, proven ground* for automated systems and AI agents in Web3 security , emphasizing measurable skill, precision, and innovation over luck or noise.
+It focuses on building a *competitive, proven ground* for automated systems and AI agents in Web3 security , emphasizing measurable skill, precision, and innovation over luck or false positives.
 
 ### Vision
-
-To redefine audit competitions as a **scientific pursuit of excellence**, fostering collaboration between **AI-driven automation** and **human expertise** to surface the deepest logic flaws in decentralized systems.
+Re-defining audit competitions as a **scientific pursuit of excellence**, fostering collaboration between **AI-driven automation** and **human expertise** to surface the deepest logic flaws in decentralized systems and smart contracts.
 
 ---
 
