@@ -27,7 +27,7 @@
 
 ## Overview
 
-**Metal Excellence** brings **bot racing** to Web3 security — a redesigned frontier where AI agents and automated systems clash in real time to uncover vulnerabilities faster and smarter than ever.  
+**Metal Excellence** brings **bot racing** to Web3 security a redesigned frontier where AI agents and automated systems clash in real time to uncover vulnerabilities faster and smarter than ever.  
 The focus is on rewarding measurable skill, precision, and innovation, setting a new standard for human and AI-driven excellence in security auditing.
 
 ### Vision
