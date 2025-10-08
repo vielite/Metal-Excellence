@@ -71,5 +71,7 @@ A performance-driven methodology emphasizing:
 Join the initiative and help shape the next generation of **Web3 security excellence**.
 
 > 🚀 Coming soon: Registration for the first *Metal Excellence Challenge*.
+`email: x86_64vielite@proton.me`
+`x: _vielite_`
 
 ---
